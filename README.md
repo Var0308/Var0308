@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Varun Laskotra  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">Hi, I'm Varun Dev Laskotra  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/dhruv354?style=social)](https://github.com/Var0308)
@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-I am Varun Laskotra, currently a 3rd year undergraudate at IIT KANPUR. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. I am primarily really interested in cybersecurity, blockchain and deep learning stuff
+I am Varun Dev Laskotra, currently a 3rd year undergraudate at IIT KANPUR. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. I am primarily really interested in cybersecurity, blockchain and deep learning stuff
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 <h3>Summary</h3>
@@ -31,7 +31,7 @@ I am Varun Laskotra, currently a 3rd year undergraudate at IIT KANPUR. I am very
 Languages and Frameworks
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Matlab](https://img.shields.io/badge/matlab-%231572B6.svg?style=for-the-badge&logo=matlab&logoColor=yellow)
+![matlab](https://img.shields.io/badge/matlab-%231572B6.svg?style=for-the-badge&logo=matlab&logoColor=yellow)
 ![python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Autocad](https://img.shields.io/badge/Autocad-%236DB33F.svg?style=for-the-badge&logo=Autocad&logoColor=white)
 
